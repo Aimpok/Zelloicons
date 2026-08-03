@@ -1,0 +1,18 @@
+[
+  {
+    "id": "telegram",
+    "title": "Присоединяйся к нашему<br>ТГ каналу!",
+    "buttonText": "Присоединиться сейчас",
+    "buttonUrl": "https://t.me/ZelloVPN",
+    "isExternal": true,
+    "icon": "telegram.png"
+  },
+  {
+    "id": "invite",
+    "title": "Приглашай друзей<br>и получай дни!",
+    "buttonText": "Пригласить друзей",
+    "buttonUrl": "bonus.html",
+    "isExternal": false,
+    "icon": "gift.png"
+  }
+]
